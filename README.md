@@ -1,6 +1,5 @@
 # AI-Crop-Compensation
 
-Brief about the Idea:
 AI Crop Compensation System:
 
 
